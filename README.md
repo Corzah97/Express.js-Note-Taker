@@ -20,6 +20,8 @@
 
  * [Walkthrough](#walkthrough)
 
+ * [Deployments](#deployments)
+
  * [Test](test)
 
  * [Contributions](contributions)
@@ -55,6 +57,12 @@
  ## Walkthrough
 
  undefined
+
+ ## Deployments
+
+ - Heroku: https://git.heroku.com/express-note-taker-js1.git
+
+ - GitHub: 
 
  ## Test
 

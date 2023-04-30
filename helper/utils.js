@@ -4,6 +4,7 @@ const util = require('util');
 // Promise version of fs.readFile
 const readFromFile = util.promisify(fs.readFile);
 
+// writeToFile function destination, content
 const writeToFile = (destination, content) =>
   
   fs.writeFile(destination, JSON.stringify(content, null, 4), (err) =>
