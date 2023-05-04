@@ -3,7 +3,7 @@
 
   ## Description
 
- To build the back end of this application and deploy the project via Heroku
+ This project builds a web application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
  ---
  ## Table Of Contents
@@ -48,28 +48,35 @@
 
  ## Screenshot
 
- undefined
+ ![Demo-Page-01](/Images-Demo/Note-Taker-Demo-01.png)
+
+ ![Demo-Page-02](/Images-Demo/Note-Taker-Demo-02.png)
+
+ ![Terminal-Screenshot](/Images-Demo/Terminal-Screenshot.png)
+
 
  ## Mock-Up
 
- undefined
+ ![Demo](/Images-Demo/Express.js%20Note%20Taker%20Demo.gif)
 
  ## Walkthrough
 
- undefined
+ [Link](https://drive.google.com/file/d/1f04KL0HyeYcKQc8oI2x37UPoOidT1Wfq/view?usp=share_link)
 
  ## Deployments
 
  - Heroku: https://git.heroku.com/express-note-taker-js1.git
 
- - GitHub: 
+ - GitHub: https://github.com/Corzah97/Express.js-Note-Taker
 
  ## Test
 
  To run tests, run these commands:
 
  ```
- npm test
+ # Open the application at http://localhost:3000 in your brower
+
+ npm start
  ```
 
  ## Contributions
