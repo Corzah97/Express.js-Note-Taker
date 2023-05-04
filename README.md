@@ -10,7 +10,9 @@
 
  * [Installation](#installation)
 
- * [Useage](useage)
+ * [Useage](#useage)
+
+ * [Techogologies-Used](#technologies-used)
 
  * [License](#license)
  
@@ -22,11 +24,11 @@
 
  * [Deployments](#deployments)
 
- * [Test](test)
+ * [Test](#test)
 
- * [Contributions](contributions)
+ * [Contributions](#contributions)
 
- * [Questions](questions)
+ * [Questions](#questions)
 
  ---
 
@@ -41,6 +43,14 @@
  ## Useage
 
  To make a functional Note Taker to organise my thoughts and keep track of tasks i need to complete
+
+ ## Technologies-Used
+
+  Node.js
+  Express.js
+  Javascript
+  VS Code
+  Heroku
 
  ## License
 
